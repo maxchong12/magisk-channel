@@ -1,0 +1,54 @@
+{
+  "modules": [
+    {
+      "id": "icebox",
+      "name": "冰箱（IceBox）",
+      "version": "6.2.0",
+      "link": "https://github.com/catchingnow/IceBox/releases/download/v6.2.0/icebox.apk",
+      "description": "应用冻结神器，无需Root，支持Shizuku/ADB激活"
+    },
+    {
+      "id": "brevent",
+      "name": "黑域（Brevent）",
+      "version": "4.8.21",
+      "link": "https://github.com/brevent/Brevent/releases/download/v4.8.21/brevent.apk",
+      "description": "强力后台管控，无需Root，支持Shizuku/ADB激活"
+    },
+    {
+      "id": "appops",
+      "name": "AppOps权限管理",
+      "version": "5.3.2",
+      "link": "https://github.com/8enet/AppOps/releases/download/v5.3.2/appops.apk",
+      "description": "权限细致管理，无需Root，支持Shizuku/ADB激活"
+    },
+    {
+      "id": "shizuku",
+      "name": "Shizuku本体",
+      "version": "13.1.5",
+      "link": "https://github.com/RikkaApps/Shizuku/releases/download/v13.1.5/shizuku-v13.1.5.r1000.apk",
+      "description": "Shizuku核心服务，部分高级插件必备"
+    },
+    {
+      "id": "lspatch",
+      "name": "LSPatch",
+      "version": "1.12.2",
+      "link": "https://github.com/LSPosed/LSPatch/releases/download/v1.12.2/lspatch.apk",
+      "description": "Xposed模块无Root运行，部分功能支持"
+    },
+    {
+      "id": "permission-manager-x",
+      "name": "Permission Manager X",
+      "version": "2.9.1",
+      "link": "https://github.com/iamlooker/permission-manager-x/releases/download/v2.9.1/permission-manager-x.apk",
+      "description": "更强大的权限管理，无需Root，支持Shizuku"
+    },
+    {
+      "id": "greenify",
+      "name": "绿色守护",
+      "version": "4.7.5",
+      "link": "https://github.com/oasisfeng/greenify/releases/download/v4.7.5/greenify.apk",
+      "description": "后台休眠省电，无需Root，部分功能支持Shizuku"
+    }
+  ]
+}
+
