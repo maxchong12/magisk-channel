@@ -1,6 +1,6 @@
 modules:
   - id: "icebox"
-    name: "冰箱（IceBox）"
+    name: "冰箱 (IceBox)"
     version: "6.2.0"
     author: "catchingnow"
     description: "应用冻结神器，无需Root，支持Shizuku/ADB激活"
@@ -9,7 +9,7 @@ modules:
     updateJson: "https://maxchong12.github.io/magisk-channel/magisk_channel.json"
 
   - id: "brevent"
-    name: "黑域（Brevent）"
+    name: "黑域 (Brevent)"
     version: "4.8.21"
     author: "brevent"
     description: "强力后台管控，无需Root，支持Shizuku/ADB激活"
@@ -34,5 +34,3 @@ modules:
     changelog: "更新Shizuku核心。"
     downloadUrl: "https://github.com/RikkaApps/Shizuku/releases/download/v13.1.5/shizuku-v13.1.5.r1000.apk"
     updateJson: "https://maxchong12.github.io/magisk-channel/magisk_channel.json"
-
-  # 你可以继续添加更多模块
