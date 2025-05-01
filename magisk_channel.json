@@ -1,74 +1,38 @@
-{
-  "modules": [
-    {
-      "id": "icebox",
-      "name": "冰箱（IceBox）",
-      "version": "6.2.0",
-      "author": "catchingnow",
-      "description": "应用冻结神器，无需Root，支持Shizuku/ADB激活",
-      "changelog": "支持更多设备，优化体验。",
-      "downloadUrl": "https://github.com/catchingnow/IceBox/releases/download/v6.2.0/icebox.apk",
-      "updateJson": "https://maxchong12.github.io/magisk-channel/magisk_channel.json"
-    },
-    {
-      "id": "brevent",
-      "name": "黑域（Brevent）",
-      "version": "4.8.21",
-      "author": "brevent",
-      "description": "强力后台管控，无需Root，支持Shizuku/ADB激活",
-      "changelog": "修复已知问题。",
-      "downloadUrl": "https://github.com/brevent/Brevent/releases/download/v4.8.21/brevent.apk",
-      "updateJson": "https://maxchong12.github.io/magisk-channel/magisk_channel.json"
-    },
-    {
-      "id": "appops",
-      "name": "AppOps权限管理",
-      "version": "5.3.2",
-      "author": "8enet",
-      "description": "权限细致管理，无需Root，支持Shizuku/ADB激活",
-      "changelog": "提升兼容性。",
-      "downloadUrl": "https://github.com/8enet/AppOps/releases/download/v5.3.2/appops.apk",
-      "updateJson": "https://maxchong12.github.io/magisk-channel/magisk_channel.json"
-    },
-    {
-      "id": "shizuku",
-      "name": "Shizuku本体",
-      "version": "13.1.5",
-      "author": "RikkaApps",
-      "description": "Shizuku核心服务，部分高级插件必备",
-      "changelog": "更新Shizuku核心。",
-      "downloadUrl": "https://github.com/RikkaApps/Shizuku/releases/download/v13.1.5/shizuku-v13.1.5.r1000.apk",
-      "updateJson": "https://maxchong12.github.io/magisk-channel/magisk_channel.json"
-    },
-    {
-      "id": "lspatch",
-      "name": "LSPatch",
-      "version": "1.12.2",
-      "author": "LSPosed",
-      "description": "Xposed模块无Root运行，部分功能支持",
-      "changelog": "修复兼容性问题。",
-      "downloadUrl": "https://github.com/LSPosed/LSPatch/releases/download/v1.12.2/lspatch.apk",
-      "updateJson": "https://maxchong12.github.io/magisk-channel/magisk_channel.json"
-    },
-    {
-      "id": "permission-manager-x",
-      "name": "Permission Manager X",
-      "version": "2.9.1",
-      "author": "iamlooker",
-      "description": "更强大的权限管理，无需Root，支持Shizuku",
-      "changelog": "优化权限管理体验。",
-      "downloadUrl": "https://github.com/iamlooker/permission-manager-x/releases/download/v2.9.1/permission-manager-x.apk",
-      "updateJson": "https://maxchong12.github.io/magisk-channel/magisk_channel.json"
-    },
-    {
-      "id": "greenify",
-      "name": "绿色守护",
-      "version": "4.7.5",
-      "author": "oasisfeng",
-      "description": "后台休眠省电，无需Root，部分功能支持Shizuku",
-      "changelog": "提升省电能力。",
-      "downloadUrl": "https://github.com/oasisfeng/greenify/releases/download/v4.7.5/greenify.apk",
-      "updateJson": "https://maxchong12.github.io/magisk-channel/magisk_channel.json"
-    }
-  ]
-}
+modules:
+  - id: "icebox"
+    name: "冰箱（IceBox）"
+    version: "6.2.0"
+    author: "catchingnow"
+    description: "应用冻结神器，无需Root，支持Shizuku/ADB激活"
+    changelog: "支持更多设备，优化体验。"
+    downloadUrl: "https://github.com/catchingnow/IceBox/releases/download/v6.2.0/icebox.apk"
+    updateJson: "https://maxchong12.github.io/magisk-channel/magisk_channel.json"
+
+  - id: "brevent"
+    name: "黑域（Brevent）"
+    version: "4.8.21"
+    author: "brevent"
+    description: "强力后台管控，无需Root，支持Shizuku/ADB激活"
+    changelog: "修复已知问题。"
+    downloadUrl: "https://github.com/brevent/Brevent/releases/download/v4.8.21/brevent.apk"
+    updateJson: "https://maxchong12.github.io/magisk-channel/magisk_channel.json"
+
+  - id: "appops"
+    name: "AppOps权限管理"
+    version: "5.3.2"
+    author: "8enet"
+    description: "权限细致管理，无需Root，支持Shizuku/ADB激活"
+    changelog: "提升兼容性。"
+    downloadUrl: "https://github.com/8enet/AppOps/releases/download/v5.3.2/appops.apk"
+    updateJson: "https://maxchong12.github.io/magisk-channel/magisk_channel.json"
+
+  - id: "shizuku"
+    name: "Shizuku本体"
+    version: "13.1.5"
+    author: "RikkaApps"
+    description: "Shizuku核心服务，部分高级插件必备"
+    changelog: "更新Shizuku核心。"
+    downloadUrl: "https://github.com/RikkaApps/Shizuku/releases/download/v13.1.5/shizuku-v13.1.5.r1000.apk"
+    updateJson: "https://maxchong12.github.io/magisk-channel/magisk_channel.json"
+
+  # 你可以继续添加更多模块
