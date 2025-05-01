@@ -7,7 +7,6 @@ modules:
     changelog: "支持更多设备，优化体验。"
     downloadUrl: "https://github.com/catchingnow/IceBox/releases/download/v6.2.0/icebox.apk"
     updateJson: "https://maxchong12.github.io/magisk-channel/magisk_channel.json"
-
   - id: "brevent"
     name: "黑域 (Brevent)"
     version: "4.8.21"
@@ -16,21 +15,4 @@ modules:
     changelog: "修复已知问题。"
     downloadUrl: "https://github.com/brevent/Brevent/releases/download/v4.8.21/brevent.apk"
     updateJson: "https://maxchong12.github.io/magisk-channel/magisk_channel.json"
-
-  - id: "appops"
-    name: "AppOps权限管理"
-    version: "5.3.2"
-    author: "8enet"
-    description: "权限细致管理，无需Root，支持Shizuku/ADB激活"
-    changelog: "提升兼容性。"
-    downloadUrl: "https://github.com/8enet/AppOps/releases/download/v5.3.2/appops.apk"
-    updateJson: "https://maxchong12.github.io/magisk-channel/magisk_channel.json"
-
-  - id: "shizuku"
-    name: "Shizuku本体"
-    version: "13.1.5"
-    author: "RikkaApps"
-    description: "Shizuku核心服务，部分高级插件必备"
-    changelog: "更新Shizuku核心。"
-    downloadUrl: "https://github.com/RikkaApps/Shizuku/releases/download/v13.1.5/shizuku-v13.1.5.r1000.apk"
-    updateJson: "https://maxchong12.github.io/magisk-channel/magisk_channel.json"
+  # 依此类推...
